@@ -1,0 +1,4 @@
+test_cases:
+  - name: "Disable Backend VS"
+    target_vs_name: "backend-vs-t1r_1000-1"
+
